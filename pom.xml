@@ -17,6 +17,7 @@
       <testServerHttpPort>9080</testServerHttpPort>
       <testServerHttpsPort>9443</testServerHttpsPort>
       <sonar.organization>mafegarciam</sonar.organization>
+      <sonar.projectKey>io.openliberty.samples:io.openliberty.sample.daytrader8</sonar.projectKey>
       <sonar.host.url>https://sonarcloud.io</sonar.host.url>
    </properties>
    <dependencies>
