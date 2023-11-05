@@ -16,6 +16,8 @@
       <!-- Liberty configuration -->
       <testServerHttpPort>9080</testServerHttpPort>
       <testServerHttpsPort>9443</testServerHttpsPort>
+      <sonar.organization>mafegarciam</sonar.organization>
+      <sonar.host.url>https://sonarcloud.io</sonar.host.url>
    </properties>
    <dependencies>
       <dependency>
